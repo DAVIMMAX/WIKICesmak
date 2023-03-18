@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Editor de Texto</title>
+  <meta charset="UTF-8">
+  
+  <script src="https://cdn.ckeditor.com/ckeditor5/34.0.0/classic/ckeditor.js"></script>
+
+  <style>
+    iframe {
+      border: none;
+    }
+
+    .ck.ck-editor{
+      width: 80%;
+      height: 700px;
+    }
+  </style>
+
+</head>
+
+<body>
+  <textarea name="editor" id="editor"></textarea>
+  <br>
+  <button id="salvar">Salvar</button>
+  <script>
+    var editor;
+
+    ClassicEditor
+      .create(document.querySelector('#editor'))
+      .then(newEditor => {
+        editor = newEditor;
+      })
+      .catch(error => {
+        console.error(error);
+      });
+
+    var salvarBotao = document.getElementById('salvar');
+    salvarBotao.addEventListener('click', function () {
+      var conteudo = editor.getData();
+      console.log(conteudo)
+      var xmlhttp = new XMLHttpRequest();
+      xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          window.location.replace("/index.html");
+          lert('Salvo com sucesso!');
+                    
+        }
+        
+      };
+      dasdas = JSON.stringify({ 'conteudo': conteudo })
+      console.log(dasdas)
+      xmlhttp.open('POST', 'http://127.0.0.1:5000/save', true);
+      xmlhttp.setRequestHeader('Content-type', 'application/json');
+      xmlhttp.send(JSON.stringify({ 'conteudo': conteudo }));
+    });
+
+    function carregarArquivo(html) {
+      fetch(html)
+        .then(response => response.text())
+        .then(data => {
+          // Carrega o conteúdo do arquivo no editor
+          editor.setData(data);
+        })
+        .catch(error => {
+          console.error(error);
+        });
+    }
+    carregarArquivo('conteudo.html');
+
+  </script>
+</body>
+
+</html>

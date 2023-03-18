@@ -1,0 +1,763 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:30] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:31] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:32] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:32] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:32] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:32] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:32] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:33] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:33] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:33] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:22:33] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:40:52] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:45:07] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:45:45] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:46:47] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:46:48] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:47:49] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:48:23] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:root:O conteúdo NÃO foi salvo com sucesso
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:49:41] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:50:36] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:51:02] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:51:53] "[31m[1mPOST /save HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:56:31] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:56:31] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:57:05] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:57:05] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:59:01] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 15:59:01] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:18:33] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:18:33] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:21:09] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:21:09] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:21:53] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:21:53] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:22:12] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdsa</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:22:12] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:23:05] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:23:05] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:23:27] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:23:27] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:26:04] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>teste de caracteres especiais ççççççç ######çççççççç á á á&nbsp;</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:26:04] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:26:39] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:26:39] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:27:43] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:27:43] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:28:04] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:28:04] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:29:19] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çaçaçaçaç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:29:19] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:29:55] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:29:55] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:30:02] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:30:02] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:10] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:10] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:15] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:15] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:18] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:20] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:26] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>ççççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:26] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:34] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:34] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:44] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:44] "POST /save HTTP/1.1" 200 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>ççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:33:48] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:34:26] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>ççççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:34:26] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:34:56] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:34:56] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'c:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:41:58] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:41:58] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:04] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:04] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:12] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:12] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:45] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:45] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:54] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdsadsa</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:42:54] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:43:00] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>ççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:43:00] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:43:58] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:43:58] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:44:28] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdas</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:44:28] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:00] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>dasdsadsaaaaaaaaaaaaaaaaaaaaa</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:00] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:05] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>ççççççççççççççççççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:05] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:44] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:root:O conteúdo NÃO foi salvo com sucesso{'conteudo': '<p>çççççççç</p>'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:45:44] "[35m[1mPOST /save HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:46:33] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:46:33] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:48:13] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:48:13] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:49:43] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:49:43] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:50:10] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:50:10] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:50:33] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 16:50:33] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:07:29] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:07:29] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:11:10] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:11:10] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:37] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:37] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:52] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:52] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:59] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:12:59] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\HTML Projects\\WIKI\\Server.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:09] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:09] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:36] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:36] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:50] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:16:50] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:17:21] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:17:21] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:00] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:00] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:07] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:07] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:19] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:19] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:34] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:31:34] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:35:23] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:35:23] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:14] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:14] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:26] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:26] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:55] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:36:55] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:37:10] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:37:10] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:37:27] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:37:27] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:45:15] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:45:15] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:45:55] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:45:55] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:46:06] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:46:06] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:46:33] "OPTIONS /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:46:33] "POST /save HTTP/1.1" 200 -
+INFO:root:O conteúdo entrou!
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2023 17:46:37] "POST /save HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 223-740-459
