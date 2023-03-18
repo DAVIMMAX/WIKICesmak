@@ -4,7 +4,7 @@
 <head>
   <title>Editor de Texto</title>
   <meta charset="UTF-8">
-  
+
   <script src="https://cdn.ckeditor.com/ckeditor5/34.0.0/classic/ckeditor.js"></script>
 
   <style>
@@ -12,7 +12,7 @@
       border: none;
     }
 
-    .ck.ck-editor{
+    .ck.ck-editor {
       width: 80%;
       height: 700px;
     }
@@ -43,11 +43,10 @@
       var xmlhttp = new XMLHttpRequest();
       xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-          window.location.replace("/index.html");
-          lert('Salvo com sucesso!');
-                    
+          alert('Salvo com sucesso!');
+          window.location.replace("index.html");
         }
-        
+
       };
       dasdas = JSON.stringify({ 'conteudo': conteudo })
       console.log(dasdas)
